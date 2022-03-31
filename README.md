@@ -15,7 +15,7 @@ It includes 1100 images with the following labels:
 |2	      |  Shine         |
 |3	      |  Sunrise            |
 
-**The image below is an example of the dataset images in the dataset.**
+**The image below is an example of the different images in the dataset.**
 
 ![target_class](https://user-images.githubusercontent.com/97724828/161025523-958b322f-ce51-4be6-9f5d-3c990d65bac2.png)
 
