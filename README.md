@@ -17,7 +17,7 @@ It includes 1100 images with the following labels:
 
 **The image below is an example of the different images in the dataset.**
 
-![target_class](https://user-images.githubusercontent.com/97724828/161025523-958b322f-ce51-4be6-9f5d-3c990d65bac2.png)
+![target_class](https://user-images.githubusercontent.com/97724828/161027774-24dd040f-d133-4277-8807-f65594a9c4bc.png)
 
 
 # Code and Resources used
