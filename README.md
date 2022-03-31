@@ -1,4 +1,4 @@
-# Image-Classification-using-Neural-Networks
+# Weather Image Classification
 ***
 ![weather classification](https://user-images.githubusercontent.com/97724828/161024500-2fdf02c4-7f9f-4161-ab4a-6d892488a649.png)
 
