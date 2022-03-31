@@ -1,5 +1,7 @@
 # Image-Classification-using-Neural-Networks
 ***
+![weather classification](https://user-images.githubusercontent.com/97724828/161024500-2fdf02c4-7f9f-4161-ab4a-6d892488a649.png)
+
 * Classified images by training a Convolutional Nueral Network (CNN).
 * Managed to receive a validation accuracy of over 93%.
 * Used the Multiclass Weather Dataset.
@@ -13,24 +15,9 @@ It includes 1100 images with the following labels:
 |2	      |  Shine         |
 |3	      |  Sunrise            |
 
-**The image below is an example of the cloudy images in the dataset.**
+**The image below is an example of the dataset images in the dataset.**
 
-![cloudy1](https://user-images.githubusercontent.com/97724828/161022572-137c019d-3fba-4e75-8441-2b7a6aca4d1b.png)
-
-**The image below is an example of the rain images in the dataset.**
-
-![rain1](https://user-images.githubusercontent.com/97724828/161022819-73657083-4106-4842-975c-1f55ebd77649.png)
- 
-
-**The image below is an example of the shine images in the dataset.**
-
-![shine2](https://user-images.githubusercontent.com/97724828/161023194-f203cae8-e24f-4caf-b456-633784a05153.png)
-
-
-**The image below is an example of the sunrise images in the dataset.**
-
-![sunrise1](https://user-images.githubusercontent.com/97724828/161023229-a7dcc852-d481-42ac-813f-a1033a1cf1d0.png)
-
+![target_class](https://user-images.githubusercontent.com/97724828/161025523-958b322f-ce51-4be6-9f5d-3c990d65bac2.png)
 
 
 # Code and Resources used
